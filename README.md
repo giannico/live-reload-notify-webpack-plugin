@@ -2,7 +2,7 @@
 
 A webpack plugin for notifying a LiveReload server of changed webpack output assets.
 
-I created this plugin for the using the following development scenario:
+I created this plugin to be used in the following development scenario:
 
 * Gulp/Grunt starts a tiny-lr server.
 * Express configured with webpack-dev-middleware.
